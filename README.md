@@ -1,6 +1,6 @@
 ### Hello, Welcome to my profile 👋
 
-<h1>Lucas Rodrigues :brazil: </h1> 
+<h1>Lucas Rodrigues :man_technologist::brazil: </h1> 
 
 <!--
 **LucasRJ3S/LucasRJ3S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
