@@ -9,7 +9,7 @@
 
 - 🔭 I like codes 
 - 🌱 I’m currently learning React and React Native
-- :open_book:Always improving
+- :open_book: Always improving
 -
 
 
