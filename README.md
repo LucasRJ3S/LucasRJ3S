@@ -8,7 +8,7 @@
 ### Hello, Welcome to my profile 👋
 
 - 🔭 I like codes 
-- 🌱 I’m currently learning React and React Native
+- 🌱 Currently learning React and React Native
 - :open_book: Always improving
 -
 
