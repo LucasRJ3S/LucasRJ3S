@@ -6,7 +6,7 @@
 
 My name is Lucas and I'm front-end developer.
 
-- 🔭 I like codes 
+- :computer: I like codes 
 - 🌱 Currently learning React and React Native
 - :open_book: Always improving
 
