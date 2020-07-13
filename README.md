@@ -2,9 +2,9 @@
 
 <h1>Lucas Rodrigues :man_technologist::brazil: </h1> 
 
-### Hello, Welcome to my profile 👋
+### Hello! Welcome to my profile 👋
 
-I'm Lucas and I'm front-end dev
+My name is Lucas and I'm front-end developer.
 
 - 🔭 I like codes 
 - 🌱 Currently learning React and React Native
