@@ -1,6 +1,6 @@
 
 
-<h1>Lucas Rodrigues :man_technologist::brazil: </h1> 
+<h1>Lucas Rodrigues :man_technologist: :brazil: </h1> 
 
 ### Hello! Welcome to my profile 👋
 
