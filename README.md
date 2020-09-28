@@ -7,7 +7,7 @@
 My name is Lucas and I'm front-end developer.
 
 - :computer: I like codes 
-- 🌱 Currently learning React and React Native
+- 🌱 Currently learning Node.js and ReactJS
 - :open_book: Always improving
 
 
